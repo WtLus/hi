@@ -35,11 +35,11 @@
     "Expressions": [
       {
         "Name": "tear.motion3",
-        "File": "https://github.com/WtLus/hi/blob/main/model/yumi/tear.motion3.json"
+        "File": "tear.motion3.json"
       },
       {
         "Name": "wave.motion3",
-        "File": "https://github.com/WtLus/hi/blob/main/model/yumi/wave.motion3.json"
+        "File": "yumi/wave.motion3.json"
       },
       {
         "Name": "yumi.cdi3",
